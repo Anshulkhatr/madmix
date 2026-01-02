@@ -1,0 +1,263 @@
+@media screen and (min-width:320px) and (max-width:425px) {
+
+    .head{
+        height: 30px;
+    }
+    .question{
+        display: none;
+    }
+    .gift{
+        display: none;
+    }
+    .menu{
+        display: block;
+        color: white;
+    }
+    .menu i{
+        font-size: 25px;
+    }
+    .left-nav{
+        display: none;
+    }
+    .right-nav{
+        display: none;
+    }
+    .cart{
+        display: block;
+        color: white;
+    }
+    .cart i{
+        font-size: 25px;
+    }
+    .logo img{
+        height: 50px;   
+    }
+    .navbar{
+        height: 60px;
+        justify-content: space-evenly;
+    }
+    .s-2{
+        display: none;
+    }
+    .first-sec{
+       display: none;
+    }
+    .background{
+        display: block;
+    }
+    .background img{
+        height: 80vh;
+        width: 100%;
+    }
+    .next-sec{
+        height: 35vh;
+        text-align: center;
+        padding: 0px 10px;
+    }
+    .next-sec h1{
+        font-size: 30px;
+        padding: 0px;
+    }
+    .next-sec p{
+        font-size: 15px;
+        padding: 10px 0px;
+    }
+    .second-sec{
+        flex-wrap: wrap;
+        margin-bottom: 0px;
+    }
+    .mid-sec{
+        margin: 0px;
+    }
+    .image img{
+        height: 70vh;
+        padding-bottom: 20px;
+    }
+    .image{
+        height: 100%;
+        width: 100%;
+    }
+    .s-1{
+        height: 100vh;
+    }
+    .s-1 h1{
+        padding: 0px;
+    }
+    .s-1 p{
+        margin: 0px;
+        padding: 0px 10px;
+    }
+    .f-1{
+        padding: 0px 10px;
+        margin-bottom: 0px;
+    }
+    .third-one{
+        width: 100%;
+    }
+    .foot{
+        height: 100%;
+    }
+    .first-foot{
+        padding: 0px 50px;
+    }
+    .second-foot{
+        height: 100%;
+        justify-content: space-evenly;
+    }
+    .logos{
+        align-items: center;
+    }
+    .logos p{
+        text-align: center;
+    }
+    .logos h2{
+        margin: 0px;
+    }
+    .logos img{
+        height: 40px;
+        margin: 0px;
+    }
+    .right-foot{
+        align-items: center;
+    }
+    .last-foot{
+        padding: 10px 5px;
+    }
+}
+
+
+@media screen and (min-width:426px) and (max-width:768px) {
+
+    .head{
+        height: 30px;
+    }
+    .question{
+        display: none;
+    }
+    .gift{
+        display: none;
+    }
+    .menu{
+        display: block;
+        color: white;
+    }
+    .menu i{
+        font-size: 25px;
+    }
+    .left-nav{
+        display: none;
+    }
+    .right-nav{
+        display: none;
+    }
+    .cart{
+        display: block;
+        color: white;
+    }
+    .cart i{
+        font-size: 25px;
+    }
+    .logo{
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .logo img{
+        height: 50px;   
+    }
+    .navbar{
+        height: 60px;
+        justify-content: space-evenly;
+    }
+    .second-sec {
+        margin-bottom: 0px;
+    }
+    .mid-sec{
+        margin-bottom: 0px;
+    }
+    .image img{
+        height: 45vh;
+        padding: 0px;
+    }
+    .next-sec{
+        height: 15vh;
+        margin: 10px 0px;
+    }
+    .image {
+        height: 50vh;
+    }
+    .s-1{
+        height: 100%;
+    }
+    .s-2{
+        display: none;
+    }
+    .next-sec{
+        margin: 20px 0px;
+    }
+    .f-1{
+         padding: 0px 10px;
+         margin-bottom: 0px;
+    }
+    .next-sec p{
+        text-align: center;
+    }
+    .third-one{
+        width: 50%;
+    }
+    .third-one img{
+        height: 45vh;
+    }
+    .foot{
+        height: 100%;
+    }
+    .first-foot{
+        padding: 0px 50px;
+    }
+    .second-foot{
+        height: 100%;
+        justify-content: space-evenly;
+    }
+    .logos{
+        align-items: center;
+    }
+    .logos p{
+        text-align: center;
+    }
+    .logos h2{
+        margin: 0px;
+    }
+    .logos img{
+        height: 40px;
+        margin: 0px;
+    }
+    .right-foot{
+        align-items: center;
+    }
+    .last-foot{
+        padding: 10px 5px;
+    }
+}
+
+@media screen and (min-width:769px) and (max-width:1024px){
+
+    .s-1{
+        width: 30%;
+    }
+    .s-1 h1{
+        padding-top: 0px;
+    }
+    .s-1 h2{
+        text-align: center;
+        margin: 0px;
+        width: 40vw;
+    }
+    .foot{
+        height: 90vh;
+    }
+    .second-foot{
+        height: 70vh;
+    }
+
+}
